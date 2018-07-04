@@ -22,7 +22,7 @@ import java.util.logging.Level;
 import java.util.logging.Logger;
 import javax.imageio.ImageIO;
 
-import org.junit.runner.JUnitCore;
+//import org.junit.runner.JUnitCore;
 
 import pkg2dgamesframework.AFrameOnImage;
 import pkg2dgamesframework.Animation;
